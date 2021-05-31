@@ -75,12 +75,12 @@ header h1{
     height: 100%;
 }
 
- .content * {
+ .content {
      display: none;
 
  }
 
- .card:hover *{
+ .card:hover .content{
      display: block;
      background-color: white;
      background-size: cover;
