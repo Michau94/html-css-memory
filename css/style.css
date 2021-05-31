@@ -28,6 +28,19 @@ img{
     
 }
 
+.blue-font{
+    color: cadetblue;
+
+}
+
+.orange-font{
+    color: coral;
+}
+
+.pink-font{
+    color:#F9009A  ;
+}
+
 /* HEADER */
 
 header h1{
@@ -55,7 +68,6 @@ header h1{
 .card h3{
     text-align: center;
     font-size: 30px; 
-    color:#EB3897;
     text-shadow: 1px 1px 1px #000000;
     
 }
@@ -84,6 +96,7 @@ header h1{
     background-size: contain;
     border-radius: 15px;
 } 
+
 
 /* FOOTER */
 footer{
